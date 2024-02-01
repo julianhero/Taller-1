@@ -1,0 +1,13 @@
+tipo:diesel:1500:20000.0
+tipo:premium:4000:5000.0
+tipo:corriente:2000:14000.0
+tipo:clasica:800:10000.0
+surtidor:Jaime:diesel:0.0:premium:0.0:corriente:0.0:clasica:0.0
+surtidor:Maria:diesel:0.0:premium:0.0:corriente:0.0:clasica:0.0
+surtidor:Juana:diesel:0.0:premium:0.0:corriente:0.0:clasica:0.0
+surtidor:Juana:diesel:0.0:premium:0.0:corriente:0.0:clasica:0.0
+empleado:Juana:0
+empleado:Kevin:0
+empleado:Jaime:0
+empleado:Maria:0
+empleado:Carlos:0
